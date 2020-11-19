@@ -11,7 +11,7 @@ Below is the links to the following pages:
 
 -index.html
 
-https://willygodwin.github.io/homework-week-2/
+https://willygodwin.github.io/homework-week-2/index.html
 
 -portfolio.html
 
