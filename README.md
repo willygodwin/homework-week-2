@@ -11,6 +11,12 @@ Below is the links to the following pages:
 
 -index.html
 
+https://willygodwin.github.io/homework-week-2/
+
 -portfolio.html
 
+https://willygodwin.github.io/homework-week-2/portfolio.html
+
 -contact.html
+
+https://willygodwin.github.io/homework-week-2/contact.html
