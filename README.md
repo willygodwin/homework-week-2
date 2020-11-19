@@ -8,6 +8,7 @@ During the process we need to employ the foolowing:
 - A responsive layout
 
 Below is the links to the following pages:
+
 -index.html
 
 -portfolio.html
