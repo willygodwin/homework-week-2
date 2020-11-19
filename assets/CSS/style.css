@@ -1,8 +1,13 @@
 
-body {
-    background-color: rgba(159, 209, 181, 0.055);
+body{
+    
+    background-color:  rgba(159, 209, 181, 0.103);
     
 
+}
+nav {
+    color:  rgba(77, 192, 127, 0.884);
+    background-color:  rgb(159, 209, 181);
 }
 img { 
     width: 350px;
@@ -35,4 +40,7 @@ hr {
     border: none;
     border-top: 1px solid #aaaaaa;
     border-bottom: 1px solid #ffffff;
+ }
+
+ @media screen and (max-width: 768px) {
  }
